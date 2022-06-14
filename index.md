@@ -58,28 +58,6 @@
 - CSS
 - Bootstrap(4.5)
 
-# Baseconnect BootCamp
-
-## ブログアプリ
-
-### 概要
-CRUD機能とPV数ランキングを表示するブログアプリ
-
-### 使用技術
-- Ruby(2.6.10)
-- Ruby on Rails(5.1.7)
-- SQLite3(3.35.4)
-- Redis(4.0.0)
-
-## Todoアプリ
-
-### 概要
-CRUD機能とTodoの完了機能を持ったTodoアプリ
-
-### 使用技術
-- JavaScript
-- React(18.1.0)
-
 # Hobby
 - 読書
 - 散歩
