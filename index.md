@@ -58,8 +58,19 @@
 - CSS
 - Bootstrap(4.5)
 
-# Baseconnect Bootcamp
-- 突破
+# Event, Internship
+
+## (Event)Baseconnect株式会社 Bootcamp 突破
+
+### 概要
+Baseconnect株式会社が実施するBootcampというイベントで出された課題（3つ）を達成しました。
+
+### 使用技術
+- Ruby(2.6.10)
+- Ruby on Rails(5.1.7)
+- SQLite3(3.35.4)
+- Redis(4.0.0)
+- React(18.1.0)
 
 # Hobby
 - 読書
