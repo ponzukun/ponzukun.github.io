@@ -63,7 +63,7 @@
 ## (Event)Baseconnect株式会社 Bootcamp 突破
 
 ### 概要
-Baseconnect株式会社が実施するBootcampというイベントで出された課題（3つ）を達成しました。
+Baseconnect株式会社が実施するBootcampというイベントで出された技術課題（3つ）を達成しました。(突破率約2%)
 
 ### 使用技術
 - Ruby(2.6.10)
