@@ -6,13 +6,13 @@
 # Skill
 
 ## Programming Language
-  - JavaScript
-  - Java
-  - Ruby
+  - JavaScript(★★★)
+  - Java(★)
+  - Ruby(★)
 
 ## Framework
-  - React
-  - Ruby on Rails
+  - React(★)
+  - Ruby on Rails(★★)
 
 # Recursion Project
 
