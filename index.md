@@ -7,14 +7,41 @@
 
 ## Programming Language
   - JavaScript(★★★)
+  - TypeScript(★★)
   - Java(★)
   - Ruby(★)
 
 ## Framework
   - React(★)
+  - Vue.js(★)
   - Ruby on Rails(★★)
 
+# Internship
+
+## アスクル株式会社 5days（2022/08/29 ~ 2022/09/02）
+
+### 概要
+SNSによる口コミなどを収集・分析し、改善施策に繋げられるようなアプリケーションを開発
+
+### 担当領域
+Vue.js, Nuxt.js, TypeScriptを用いたフロントエンド開発を経験した。
+クライアント、サービス、ページという構成で、axiosによるAPI呼び出しからページに表示させるまでの処理を経験した。
+
+### 使用技術
+- プログラミング言語
+  - TypeScript
+- フレームワーク
+  - Vue.js
+  - Nuxt.js
+- IDE
+  - IntelliJ IDEA
+- バージョン管理
+  - Github
+
 # Recursion Project
+
+## 概要
+コンピュータサイエンス学習サービスの「Recursion」でのプロジェクト課題
 
 ## Clicker Empire Game(2022/04/17~05/22)
 
@@ -58,9 +85,8 @@
 - CSS
 - Bootstrap(4.5)
 
-# Event, Internship
-
-## (Event)Baseconnect株式会社 Bootcamp 突破
+# Event
+## Baseconnect株式会社 Bootcamp 突破
 
 ### 概要
 Baseconnect株式会社が実施するBootcampというイベントで出された技術課題（3つ）を達成しました。(突破率約2%)
