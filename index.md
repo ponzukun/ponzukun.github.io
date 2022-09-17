@@ -14,7 +14,7 @@
 ## Framework
   - Ruby on Rails(★★)
   - React(★)
-  - Vue.js(★)
+  - Vue.js2系(★)
 
 # Internship
 
