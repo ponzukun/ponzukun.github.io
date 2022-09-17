@@ -14,7 +14,7 @@
 ## フレームワーク
   - Ruby on Rails(★★)
   - React(★)
-  - Vue.js2系(★)
+  - Vue.js 2系(★)
 
 # Internship
 
