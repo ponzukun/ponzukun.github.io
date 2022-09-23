@@ -6,15 +6,26 @@
 # Skill
 
 ## プログラミング言語
-  - JavaScript(★★★)
-  - TypeScript(★★)
-  - Java(★)
-  - Ruby(★)
+- JavaScript(★★★)
+- TypeScript(★★)
+- Java(★)
+- Ruby(★)
 
 ## フレームワーク
-  - Ruby on Rails(★★)
-  - React(★)
-  - Vue.js 2系(★)
+- Ruby on Rails(★★)
+- React(★)
+- Vue.js 2系(★)
+
+## エディタ
+- VSCode
+
+## バージョン管理
+- Git
+- GitHub
+
+## 環境
+- M1 Macbook Air
+- Windows10(WSL2 Ubuntu)
 
 # Internship
 
@@ -70,6 +81,25 @@ Vue.js, Nuxt.js, TypeScriptを用いたフロントエンド開発を担当し�
 ## 概要
 コンピュータサイエンス学習サービスの「Recursion」でのプロジェクト課題です。
 
+## Library Application
+
+- [Link](https://ponzukun.github.io/LibraryApplication)
+- [Github リポジトリ](https://github.com/ponzukun/LibraryApplication)
+
+### 期間
+2022/09/18 ~ 2022/09/23
+
+### 概要
+ISBN（International Standard Book Number: 国際規格コード）で本を検索し、ヒットすると、本に関する情報が表示されるWebアプリ
+
+### 使用技術
+- JavaScript
+- HTML
+- SCSS
+- Bootstrap(5.2.1)
+- fontawesome(6.2.0)
+- Webpack(5.74.0)
+
 ## Clicker Empire Game
 
 - [Link](https://ponzukun.github.io/ClickerEmpireGame/)
@@ -87,39 +117,8 @@ Vue.js, Nuxt.js, TypeScriptを用いたフロントエンド開発を担当し�
 - CSS
 - Bootstrap(4.5)
 
-## Virtual Banking App
-
-- [Link](https://ponzukun.github.io/VirtualBankingApp/)
-- [Github リポジトリ](https://github.com/ponzukun/VirtualBankingApp)
-
-### 期間
-2022/03/27 ~ 2022/04/17
-### 概要
-銀行口座で行われる、預金や引き出しなどの流れを表したシミュレーションゲーム
-
-### 使用技術
-- JavaScript
-- HTML
-- CSS
-- Bootstrap(4.5)
-
-## Battery Finder Program
-
-- [Link](https://ponzukun.github.io/BatteryFinderProgram/)
-- [Github リポジトリ](https://github.com/ponzukun/BatteryFinderProgram)
-
-### 期間
-2022/03/13 ~ 2022/04/10
-### 概要
-カメラのブランド、モデル、付属品の消費電力を決めると、有効な電池が一覧表示されるWebアプリ
-
-### 使用技術
-- JavaScript
-- HTML
-- CSS
-- Bootstrap(4.5)
-
 # Event
+
 ## Baseconnect株式会社 Bootcamp
 
 ### 概要
