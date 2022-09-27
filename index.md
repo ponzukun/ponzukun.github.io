@@ -78,8 +78,6 @@ Vue.js, Nuxt.js, TypeScriptを用いたフロントエンド開発を担当し�
   - 経験のないメンバーにもう少し教えながら進めていれば良かった
 
 # Recursion Project
-
-## 概要
 コンピュータサイエンス学習サービスの「Recursion」でのプロジェクト課題です。
 
 ## Library Application
