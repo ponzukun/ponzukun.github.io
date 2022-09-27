@@ -5,27 +5,12 @@
 
 # Skill
 
-## プログラミング言語
 - JavaScript(★★★)
 - TypeScript(★★)
-- Java(★)
 - Ruby(★)
-
-## フレームワーク
 - Ruby on Rails(★★)
 - React(★)
 - Vue.js 2系(★)
-
-## エディタ
-- VSCode
-
-## バージョン管理
-- Git
-- GitHub
-
-## 環境
-- M1 Macbook Air
-- Windows10(WSL2 Ubuntu)
 
 # Internship
 
