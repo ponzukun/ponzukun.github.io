@@ -50,7 +50,7 @@ React, TypeScriptを用いたフロントエンド開発を担当しました。
 - Git
 - Github
 
-<iframe src="https://www.canva.com/design/DAFNVMsVj8s/Iq8gPp9z9qiBo5a0kTvgzQ/view?utm_content=DAFNVMsVj8s&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+<iframe src="https://www.canva.com/design/DAFNVMsVj8s/oZqD20p-3rgER0YW5HXoyQ/view?utm_content=DAFNVMsVj8s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 ## アスクル株式会社
 
