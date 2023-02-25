@@ -41,11 +41,9 @@ React, TypeScriptを用いたフロントエンド開発を担当しました。
 フルスクラッチでの開発だったため、要件定義から画面設計、APIの仕様、技術選定についてチームで話し合いながら開発をしました。
 
 ### 使用技術
-- TypeScript
-- React
+- TypeScript / React
 - VSCode
-- Git
-- Github
+- Git / Github
 
 ### 成果物
 - [Github リポジトリ](https://github.com/akibo567/gmo-bash-frontend-ts)
@@ -72,12 +70,9 @@ Vue.js, Nuxt.js, TypeScriptを用いたフロントエンド開発を担当し�
 クライアント、サービス、ページという構成で、axiosによるAPI呼び出しからページに表示させるまでの処理を経験しました。
 
 ### 使用技術
-- TypeScript
-- Vue.js
-- Nuxt.js
+- TypeScript / Vue.js / Nuxt.js
 - IntelliJ IDEA
-- Git
-- Github
+- Git / Github
 
 ### フィードバック（エンジニア社員メンターから）
 - Good
