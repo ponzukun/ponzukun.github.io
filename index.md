@@ -5,20 +5,20 @@
 
 # Skill
 ## Front-end
-- JavaScript(★★★)
-- TypeScript(★★)
-- React(★)
-- Vue.js 2.x(★)
+- JavaScript
+- TypeScript
+- React
+- Vue.js 2.x
 
 ## Back-end
-- Python(★★)
-- Bash Script(★★)
-- Ruby(★)
-- Ruby on Rails(★)
+- Python
+- Bash Script
+- Ruby
+- Ruby on Rails
 
 ## Competitive programming
-- Python(★★)
-- Java(★)
+- Python
+- Java
 
 ## Certification
 - 基本情報技術者（2019年5月）
