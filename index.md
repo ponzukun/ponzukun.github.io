@@ -1,35 +1,35 @@
-# About
+# 基本情報
 - 土井 裕輔 / Yusuke Doi
 - 京都情報大学院大学 応用情報技術研究科 ウェブビジネス技術専攻 M2
 - 京都コンピュータ学院京都駅前校 経営情報学科 卒業（高度専門士）
 
-# Skill
-## Front-end
+# スキル
+## フロントエンド
 - JavaScript
 - TypeScript
 - React
 - Vue.js 2.x
 
-## Back-end
+## バックエンド
 - Python
 - Bash Script
 - Ruby
 - Ruby on Rails
 
-## Competitive programming
+## 競技プログラミング
 - Python
 - Java
 
-## Certification
+## 資格
 - 基本情報技術者（2019年5月）
 - ITパスポート（2018年10月）
 
-# Paid Internship
+# 有給インターンシップ
 
 ## 株式会社ファーストリテイリング
 
 ### 期間
-1 month（2023/03/13~2023/04/07）
+1ヶ月（2023/03/13~2023/04/07）
 
 ### 概要
 データエンジニアリングチームに配属し、データエンジニアとして業務に従事。
@@ -40,12 +40,12 @@
 - Google Cloud Platform (GCP)
 - PostgreSQL
 
-# Internship
+# サマーインターンシップ
 
 ## GMOインターネット株式会社
 
 ### 期間
-5 days（2022/09/05~2022/09/09）
+5日間（2022/09/05~2022/09/09）
 
 ### 概要
 webアプリケーション開発コース。
@@ -76,7 +76,7 @@ React, TypeScriptを用いたフロントエンド開発を担当しました。
 ## アスクル株式会社
 
 ### 期間
-5days（2022/08/29~2022/09/02）
+5日間（2022/08/29~2022/09/02）
 
 ### 概要
 SNSによる口コミなどを収集・分析し、改善施策に繋げられるようなアプリケーションをチーム開発しました。
@@ -142,7 +142,7 @@ ISBN（International Standard Book Number: 国際規格コード）で本を検�
 - CSS
 - Bootstrap(4.5)
 
-# Event
+# イベント
 
 ## Baseconnect株式会社 Bootcamp
 
@@ -156,13 +156,8 @@ Baseconnect株式会社が実施するBootcampというイベントで出され�
 - Redis(4.0.0)
 - React(18.1.0)
 
-# Hobby
-- 読書
-- 散歩
-- Youtube
-
-# Link
+# 他SNSのリンク
 - [Twitter](https://twitter.com/_ponzukun_)
-- [GitHub](https://github.com/ponzukun)
+- [Linkedin](https://www.linkedin.com/in/yusuke-doi-702455262/)
 - [Qiita](https://qiita.com/_ponzukun_)
 - [AtCoder](https://atcoder.jp/users/ponzukun)
