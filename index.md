@@ -104,7 +104,6 @@ Vue.js, Nuxt.js, TypeScriptを用いたフロントエンド開発を担当し�
 
 ## Library Application
 
-- [Link](https://ponzukun.github.io/LibraryApplication)
 - [Github リポジトリ](https://github.com/ponzukun/LibraryApplication)
 
 ### 期間
